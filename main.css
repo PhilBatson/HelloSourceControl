@@ -5,9 +5,13 @@ body{
     border-style: solid;
     border-color: orchid;
     background-color: beige;
-    }
+    font-family: 'Times New Roman', Times, serif;
+    
+}
 
 
 footer{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
