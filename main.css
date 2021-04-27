@@ -1,0 +1,17 @@
+
+
+body{
+    border-width: .2em;
+    border-style: solid;
+    border-color: rgb(59, 139, 185); 
+    background-color: rgb(241, 241, 225);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+footer{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
